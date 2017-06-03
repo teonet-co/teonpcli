@@ -2,6 +2,19 @@
 
 ## 1. Installation
 
+### 1.1 Install project with submodules
+
+    git clone git@gitlab.ksproject.org:teonet/teonpcli.git
+    cd teonpcli
+    git submodule update --init --recursive
+    
+### 1.2 Update submodules to latest version
+
+Last version of the project used some different versions of subprojects. If you 
+need switch to latest versions of submodules use next git command:
+
+    git submodule update --remote --merge
+
 ## 2. Projects description
 
 The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client which used basic C/C++ teonet client to connect to Teonet L0 server. 
@@ -38,7 +51,10 @@ To compile single C/C++ file to JS it could be called like:
 
 ## 4. Projects components description
 
+
 ### 4.1 Teonet C++JS L0 Client
+
+    cd teocli
 
 ### 4.2 C++JS L0 Server
 
