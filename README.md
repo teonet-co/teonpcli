@@ -23,6 +23,24 @@ Compile our existing projects written in C or C++ and run them on all modern bro
 that compiles C and C++ into highly-optimizable JavaScript in asm.js format. 
 This lets us run C and C++ on the web at near-native speed, without plugins.
 
-To execute Emscripten in different platforms without setup it the docker may be
-used:
+To execute Emscripten on different platforms without setup we use docker image from [trzeci](https://hub.docker.com/r/trzeci/emscripten/):
+
+To execute emcc comiller from container use next command:
+
+    docker run --rm -v $(pwd):/src trzeci/emscripten:sdk-tag-1.37.3-64bit emcc
+    
+To compile single C/C++ file to JS it could be called like:
+
+    docker run --rm -v $(pwd):/src trzeci/emscripten:sdk-tag-1.37.3-64bit emcc helloworld.cpp -o helloworld.js
+
+
+## Projects components description
+
+### Teonet C++JS L0 Client
+
+### C++JS L0 Server
+
+### Teonet C++JS L0 Proxy
+
+### Teonet C ++ Native Node L0 Client
 
