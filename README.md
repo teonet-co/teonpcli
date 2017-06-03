@@ -24,7 +24,7 @@ The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client wh
 
 Todo this we create complecs client with several components (see picture abow):
 
-- JS from C/C++ Teonet client "Teonet C++JS L0 Client"; 
+- JS from C/C++ Teonet client "[Teonet C++JS L0 Client](#4.1 Teonet C++JS L0 Client)"; 
 - JS from C/C++ Teonet connector "C++JS L0 Server";
 - JS from C/C++ Teonet proxy "Teonet C++JS L0 Proxy";
 - C/C++ Teonet native client Node module "Teonet C ++ Native Node L0 Client".
