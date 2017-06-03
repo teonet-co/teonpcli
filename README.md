@@ -15,8 +15,14 @@ Todo this we create complecs client with several components (see picture below):
 
 ![Teonet native C++JS client server architecture](https://lh5.googleusercontent.com/n0VK-QLgILYtGXWbGvOaisN_y-fQdVM9THYtp6S7xpmZZO8pjXmWCLprvvm-qed7DIrGy81hWai_AWA=w1356-h657)
 
-## Basic techologes used in project
+## C++ to JS convert techologes used in project
 
-To create JS from C/C++ we uses [Emscripten](http://kripken.github.io/emscripten-site/#) to Compile our existing projects written in C or C++ and run them on all modern browsers.
+To create JS from C/C++ we uses [Emscripten](http://kripken.github.io/emscripten-site/#) to 
+Compile our existing projects written in C or C++ and run them on all modern browsers. 
+[Emscripten](http://kripken.github.io/emscripten-site/#) is an LLVM-based project 
+that compiles C and C++ into highly-optimizable JavaScript in asm.js format. 
+This lets us run C and C++ on the web at near-native speed, without plugins.
 
-Emscripten is an LLVM-based project that compiles C and C++ into highly-optimizable JavaScript in asm.js format. This lets you run C and C++ on the web at near-native speed, without plugins.
+To execute Emscripten in different platforms without setup it the docker may be
+used:
+
