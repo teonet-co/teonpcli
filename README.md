@@ -25,9 +25,9 @@ The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client wh
 Todo this we create complecs client with several components (see picture abow):
 
 - JS from C/C++ Teonet client "[Teonet C++JS L0 Client](#41-teonet-cjs-l0-client)"; 
-- JS from C/C++ Teonet connector "C++JS L0 Server";
-- JS from C/C++ Teonet proxy "Teonet C++JS L0 Proxy";
-- C/C++ Teonet native client Node module "Teonet C ++ Native Node L0 Client".
+- JS from C/C++ Teonet connector "[C++JS L0 Server](#42-cjs-l0-server)";
+- JS from C/C++ Teonet proxy "[Teonet C++JS L0 Proxy](#43-teonet-cjs-l0-proxy)";
+- C/C++ Teonet native client Node module "[Teonet C ++ Native Node L0 Client](#44-teonet-c-native-node-l0-client)".
 
 ## 3. C++ to JS convert techologes used in this project
 
