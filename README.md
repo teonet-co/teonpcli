@@ -13,7 +13,7 @@ Todo this we create complecs client with several components (see picture below):
 &nbsp;    
 &nbsp;
 
-![Teonet native C++JS client server architecture](https://lh5.googleusercontent.com/n0VK-QLgILYtGXWbGvOaisN_y-fQdVM9THYtp6S7xpmZZO8pjXmWCLprvvm-qed7DIrGy81hWai_AWA=w1356-h657)
+![Teonet native C++JS client server architecture](https://lh3.googleusercontent.com/YySiMzS01xIax5i3XaKdjciThE146MoT9eLwNbh4voDhd5KP6j_VAM-a_yJlS2tEjmUYTkLnVMVXymY=w1356-h657)
 
 ## C++ to JS convert techologes used in this project
 
