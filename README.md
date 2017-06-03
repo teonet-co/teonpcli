@@ -28,7 +28,7 @@ Todo this we create complecs client with several components (see picture below):
 &nbsp;    
 &nbsp;
 
-![Teonet native C++JS client server architecture](https://drive.google.com/open?id=0B11kd5eSht0oVTlQX1pDeC05SFk)
+![Teonet native C++JS client server architecture](https://drive.google.com/uc?export=view&id=0B11kd5eSht0oVTlQX1pDeC05SFk)
 
 ## 3. C++ to JS convert techologes used in this project
 
