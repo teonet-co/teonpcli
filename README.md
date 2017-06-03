@@ -53,7 +53,19 @@ To compile single C/C++ file to JS it could be called like:
 
 ### 4.1 Teonet C++JS L0 Client
 
-    cd teocli
+This component source code are placed in teocli submodule. Native C++JS clients 
+example connected to the [C++JS L0 Server](#42-cjs-l0-server) so start it first
+to see correct examples output.
+
+    # goto folder
+    cd teocli/emscripten
+      
+    # build JS for c/c++ sources
+    ./emscripten.sh
+      
+    # run example
+    node main_select.js teocli++js gt1.kekalan.net 9010 ps-server
+    
 
 ### 4.2 C++JS L0 Server
 
