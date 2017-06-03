@@ -1,6 +1,8 @@
 # Teonet native C++JS client server
 
-## Projects description
+## 1. Installation
+
+## 2. Projects description
 
 The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client which used basic C/C++ teonet client to connect to Teonet L0 server. 
 
@@ -15,7 +17,7 @@ Todo this we create complecs client with several components (see picture below):
 
 ![Teonet native C++JS client server architecture](https://lh3.googleusercontent.com/YySiMzS01xIax5i3XaKdjciThE146MoT9eLwNbh4voDhd5KP6j_VAM-a_yJlS2tEjmUYTkLnVMVXymY=w1356-h657)
 
-## C++ to JS convert techologes used in this project
+## 3. C++ to JS convert techologes used in this project
 
 To create JS from C/C++ we uses [Emscripten](http://kripken.github.io/emscripten-site/#) to 
 Compile our existing projects written in C or C++ and run them on all modern browsers. 
@@ -34,13 +36,13 @@ To compile single C/C++ file to JS it could be called like:
     docker run --rm -v $(pwd):/src trzeci/emscripten:sdk-tag-1.37.3-64bit emcc helloworld.cpp -o helloworld.js
 
 
-## Projects components description
+## 4. Projects components description
 
-### Teonet C++JS L0 Client
+### 4.1 Teonet C++JS L0 Client
 
-### C++JS L0 Server
+### 4.2 C++JS L0 Server
 
-### Teonet C++JS L0 Proxy
+### 4.3 Teonet C++JS L0 Proxy
 
-### Teonet C ++ Native Node L0 Client
+### 4.4 Teonet C ++ Native Node L0 Client
 
