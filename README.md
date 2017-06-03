@@ -18,8 +18,8 @@ need switch to latest versions of submodules use next git command:
 ## 2. Projects description
 
 The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client which used basic C/C++ teonet client to connect to Teonet L0 server.
-  &nbsp;
-  &nbsp;
+  &nbsp;  
+  &nbsp;  
 ![Teonet native C++JS client server architecture](https://drive.google.com/uc?export=view&id=0B11kd5eSht0oVTlQX1pDeC05SFk)
 
 Todo this we create complecs client with several components (see picture abow):
