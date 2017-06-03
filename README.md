@@ -13,4 +13,4 @@ Todo this we create complecs client with several components (see picture below):
 &nbsp;    
 &nbsp;
 
-![Teonet native C++JS client server architecture](https://lh3.googleusercontent.com/fW_NLzIUDBPOiERLk8OEUR12GRiZPmfqK9KvksIFZqmcG-su30-epuy7d3_gejPbTwckfhhH5cxYKPk=w1356-h657)
+![Teonet native C++JS client server architecture](https://lh5.googleusercontent.com/n0VK-QLgILYtGXWbGvOaisN_y-fQdVM9THYtp6S7xpmZZO8pjXmWCLprvvm-qed7DIrGy81hWai_AWA=w1356-h657)
