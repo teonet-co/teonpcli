@@ -1,8 +1,8 @@
 # Teonet native C++JS client server
 
-## Project description
+## Projects description
 
-The main Project Goal is Creating native Web | Phonegap | Node Teonet Client which used basic C/C++ teonet client to connect to Teonet L0 server. 
+The main Projects Goal is Creating native Web | Phonegap | Node Teonet Client which used basic C/C++ teonet client to connect to Teonet L0 server. 
 
 Todo this we create complecs client with several components (see picture below):
 
