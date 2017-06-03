@@ -14,3 +14,7 @@ Todo this we create complecs client with several components (see picture below):
 &nbsp;
 
 ![Teonet native C++JS client server architecture](https://lh5.googleusercontent.com/n0VK-QLgILYtGXWbGvOaisN_y-fQdVM9THYtp6S7xpmZZO8pjXmWCLprvvm-qed7DIrGy81hWai_AWA=w1356-h657)
+
+## Common techologes used in project
+
+To create JS from C/C++ we uses [Emscripten](http://kripken.github.io/emscripten-site/#) to Compile our existing projects written in C or C++ and run them on all modern browsers.
