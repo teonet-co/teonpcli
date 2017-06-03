@@ -10,7 +10,7 @@
     
 ### 1.2 Update submodules to latest version
 
-Last version of the project used some different versions of subprojects. If you 
+Last version of the project used some different versions of submodules. If you 
 need switch to latest versions of submodules use next git command:
 
     git submodule update --remote --merge
