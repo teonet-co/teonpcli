@@ -4,7 +4,7 @@
 
 ### 1.1 Install project with submodules
 
-    git clone git@gitlab.ksproject.org:teonet/teonpcli.git
+    git clone git@github.com:teonet-co/teonpcli.git
     cd teonpcli
     git submodule update --init --recursive
     
@@ -69,7 +69,13 @@ to see correct examples output.
 
 ### 4.2 C++JS L0 Server
 
+    \TODO
+
 ### 4.3 Teonet C++JS L0 Proxy
+
+    \TODO
 
 ### 4.4 Teonet C ++ Native Node L0 Client
 
+    \TODO
+    
